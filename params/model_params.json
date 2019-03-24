@@ -1,0 +1,16 @@
+{
+    "filter_width" : 2,
+    "quantization_channel" : 1,
+    "dilations" : [1,2,4,8,16,32,64,128,256,512,
+                 1,2,4,8,16,32,64,128,256,512,
+                 1,2,4,8,16,32,64,128,256,512,
+                 1,2,4,8,16,32,64,128,256,512],
+     
+    "en_residual_channel":32,
+    "en_dilation_channel" :32,
+   
+    "en_bottleneck_width":512,
+    "en_pool_kernel_size":15,
+
+    "use_bias":true
+}

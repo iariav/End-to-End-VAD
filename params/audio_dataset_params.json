@@ -1,0 +1,9 @@
+{
+    "Audio_frame_Length" : 319,
+    "sampling_rate" : 8000,
+    "GlobalFrameRate":25.2462,
+    "audio_duration" :122,
+    "noise_prob":0.8,
+    "trans_prob":0.8
+}
+
