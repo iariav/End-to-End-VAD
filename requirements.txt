@@ -1,0 +1,9 @@
+sk_video==1.1.10
+torch==0.4.0
+numpy==1.14.2
+librosa==0.6.1
+matplotlib==2.0.0
+torchvision==0.2.1
+scipy==1.1.0
+scikit_learn==0.20.3
+tensorboardX==1.6
