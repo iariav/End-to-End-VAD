@@ -11,7 +11,7 @@ Detection Using WaveNet Encoder and Residual Networks" (https://ieeexplore.ieee.
 the requirements are listed in the requirements.txt file and can be installed via
 ```shell
 $pip install -r requirements.txt
-
+```
 you will also need to install FFmpeg for video loading.
 
 Note: the code was tested on a windows machine with python 3.6, some minor changes may be required for other OS.
