@@ -20,7 +20,7 @@ Note: the code was tested on a windows machine with python 3.6, some minor chang
 
 #### 3.1 Data preparation 
 
-The dataset used in this repo can be downloaded from https://www.dropbox.com/s/vmq96yo4axt8ihn/End_to_End_VAD_data.rar?dl=0.
+The dataset used in this repo can be downloaded from https://www.dropbox.com/s/70jyy3d3hdumbpx/End-to-End-VAD_data.rar?dl=0.
 the 11 speakers should be divided into train\val\test splits and placed under `./data/split` directory. At the initial run of train.py, these files will be processed and divided into smaller files of length "time_depth" [frames].
 
 #### 3.2 Training
